@@ -28,6 +28,7 @@ The course materials were adapted from a number of sources. All materials were u
 * Scientific Python course by Roberta Sinatra
 * A lecture of J.R. Johansson (http://jrjohansson.github.io)
 * Python for Data Analysis by Wes McKinney
+* Introduction to the practice of statistics by D.S. Moore and G.R. McCabe
 * Python Programming by John Zelle
 * https://www.thedigitalcatonline.com/blog/2015/03/14/python-3-oop-notebooks/
 * https://github.com/UofTCoders/studyGroup/tree/gh-pages/lessons/python/classes
@@ -35,6 +36,8 @@ The course materials were adapted from a number of sources. All materials were u
 * https://towardsdatascience.com/speed-up-jupyter-notebooks-20716cbe2025
 * https://jakevdp.github.io/PythonDataScienceHandbook/01.07-timing-and-profiling.html
 * https://people.duke.edu/~ccc14/sta-663/MakingCodeFast.html
+* Network Science by A.L. Barabasi
+* Networks: An Introduction by M.E.J. Newman
 * Bruno Gonçalves / Data4Sci: https://github.com/DataForScience/Networks
 * James Bagrow: http://bagrow.com/dsv/
 * A network science class by Sean Cornelius and Emma Thompson
