@@ -1,12 +1,14 @@
 # Course materials for: Introduction to Data Science and Programming
-These course materials cover the second half of the course held in fall 2019 at IT University of Copenhagen. Public course page: https://learnit.itu.dk/local/coursebase/view.php?ciid=282
+These course materials cover the second half of the course held in fall 2019, improved over fall 2020, at IT University of Copenhagen. Public course pages:  
+2019: https://learnit.itu.dk/local/coursebase/view.php?ciid=282  
+2020: https://learnit.itu.dk/local/coursebase/view.php?ciid=522
 
 ## Topics
 ![alt text](docs/images/topics.png "Topics")
 
 The covered topics are:
 
-* Scientific programming with numpy 
+* Array programming with numpy 
 * Single variable analysis
 * Normal distributions
 * Data relationships
@@ -20,9 +22,9 @@ The covered topics are:
 * Network analysis and visualization
 * Graph algorithms
 
-These topics come after the first half of the course (not included here) which covers introduction to programming in Python.
+These topics come after the first half of the course (not included here) which covers programming fundamentals in Python.
 
-## Source
+## Sources
 The course materials were adapted from a number of sources. All materials were used for educational, non-commercial reasons only. Feel free to use as you wish for the same purpose, at your own risk. For other re-use questions please consult the license of the respective source:
 
 * Scientific Python course by Roberta Sinatra
