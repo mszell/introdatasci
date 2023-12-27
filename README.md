@@ -52,3 +52,8 @@ The course materials were adapted from a number of sources. All materials were u
 * Bruno Gonçalves / Data4Sci: https://github.com/DataForScience/Networks
 * James Bagrow: http://bagrow.com/dsv/
 * A network science class by Sean Cornelius and Emma Thompson
+
+## Credits
+Data Science lectures: [Michael Szell](michael.szell.net)  
+Data Science exercises: Caroline Bjerre Benn Jørgensen, Jonas-Mika Senghaas  
+Python Crash Course: Anastassia Vybornova
