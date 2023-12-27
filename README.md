@@ -1,30 +1,23 @@
 # Course materials for: Introduction to Data Science and Programming
-These course materials cover the second half of the course held in fall 2019, improved over fall 2020, extended and improved again in 2023, at IT University of Copenhagen. Public course pages:  
-2019: https://learnit.itu.dk/local/coursebase/view.php?ciid=282  
-2020: https://learnit.itu.dk/local/coursebase/view.php?ciid=522  
-2023: https://learnit.itu.dk/local/coursebase/view.php?ciid=1218
+These course materials cover the course held in 2023, at IT University of Copenhagen, after several iterations of improvements. Public course page: [https://learnit.itu.dk/local/coursebase/view.php?ciid=1218](https://learnit.itu.dk/local/coursebase/view.php?ciid=1218)
 
 
 ## Topics
-![alt text](docs/images/topics.png "Topics")
-
-The covered topics are:
+![alt text](docs/images/topics.jpg "Topics")
 
 ### Python Crash Course
 
 * Operators and data types
-* Lists, functions, conditions
-* Program flow
-* Dictionaries
+* Lists, dictionaries, sets, functions
+* Control flow and conditional statements
 * Strings, text files, and IO
 * Comprehensions, shell and scripting
 * Recursion, file formats, and pandas
-* Applications and conda
-* Web scraping
+* Applications, web scraping, and conda
 
 ### Data Science
 
-* Array programming with numpy 
+* Array programming with numpy
 * Single variable analysis
 * Normal distributions
 * Data relationships
@@ -39,7 +32,6 @@ The covered topics are:
 * Information theory
 * Data cleaning and pitfalls
 
-These topics come after the first half of the course (not included here) which covers programming fundamentals in Python.
 
 ## Sources
 The course materials were adapted from a number of sources. All materials were used for educational, non-commercial reasons only. Feel free to use as you wish for the same purpose, at your own risk. For other re-use questions please consult the license of the respective source:
