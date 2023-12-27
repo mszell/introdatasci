@@ -1,12 +1,28 @@
 # Course materials for: Introduction to Data Science and Programming
-These course materials cover the second half of the course held in fall 2019, improved over fall 2020, at IT University of Copenhagen. Public course pages:  
+These course materials cover the second half of the course held in fall 2019, improved over fall 2020, extended and improved again in 2023, at IT University of Copenhagen. Public course pages:  
 2019: https://learnit.itu.dk/local/coursebase/view.php?ciid=282  
-2020: https://learnit.itu.dk/local/coursebase/view.php?ciid=522
+2020: https://learnit.itu.dk/local/coursebase/view.php?ciid=522  
+2023: https://learnit.itu.dk/local/coursebase/view.php?ciid=1218
+
 
 ## Topics
 ![alt text](docs/images/topics.png "Topics")
 
 The covered topics are:
+
+### Python Crash Course
+
+* Operators and data types
+* Lists, functions, conditions
+* Program flow
+* Dictionaries
+* Strings, text files, and IO
+* Comprehensions, shell and scripting
+* Recursion, file formats, and pandas
+* Applications and conda
+* Web scraping
+
+### Data Science
 
 * Array programming with numpy 
 * Single variable analysis
@@ -17,10 +33,11 @@ The covered topics are:
 * Code optimization
 * Introduction to network science
 * Skewed data
-* Graph properties
-* Network models
 * Network analysis and visualization
 * Graph algorithms
+* Machine learning
+* Information theory
+* Data cleaning and pitfalls
 
 These topics come after the first half of the course (not included here) which covers programming fundamentals in Python.
 

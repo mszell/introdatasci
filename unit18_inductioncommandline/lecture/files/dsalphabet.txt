@@ -1,0 +1,1 @@
+cd mv rm cp ls du cat grep sed man awk head less wc tr sort uniq cut diff nl | > >>

@@ -1,0 +1,12 @@
+Study ethics and use of automated tools
+Introduction to Data Science and Programming 2023, ITU
+
+In this course, for solving exercises, assignments, or coding test, please do not use large language models like chatGPT, because:
+1) the goal of this course is to learn programming manually, which you will absolutely need in your future studies at ITU and in your career,
+2) all parts of the course are designed to be solved manually,
+3) the final exam will be a pen & paper exam, so chatGPT won't help there anyway,
+4) they are unreliable
+
+We do not want to "police" this, but in any case, everything you submit in this course has to reflect your own work and understanding. However, it is fine to look up syntax on the internet, for example how to write a list comprehension.
+
+It is fine to solve exercises and assignments together with other students, but the coding test has to be solved alone.
