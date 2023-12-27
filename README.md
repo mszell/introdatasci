@@ -5,6 +5,8 @@ These course materials cover the course held in 2023, at IT University of Copenh
 ## Topics
 ![alt text](docs/images/topics.jpg "Topics")
 
+The course is split into two parts: ~1/3 Python Crash Course, ~2/3 Data Science & Program Design
+
 ### Python Crash Course
 
 * Operators and data types
@@ -15,7 +17,7 @@ These course materials cover the course held in 2023, at IT University of Copenh
 * Recursion, file formats, and pandas
 * Applications, web scraping, and conda
 
-### Data Science
+### Data Science & Program Design
 
 * Array programming with numpy
 * Single variable analysis
@@ -24,7 +26,7 @@ These course materials cover the course held in 2023, at IT University of Copenh
 * Simulation and top-down design
 * Object-oriented programming
 * Code optimization
-* Introduction to network science
+* Network science
 * Skewed data
 * Network analysis and visualization
 * Graph algorithms
@@ -32,6 +34,9 @@ These course materials cover the course held in 2023, at IT University of Copenh
 * Information theory
 * Data cleaning and pitfalls
 
+
+## Schedule
+![alt text](docs/images/schedule.png "Schedule")
 
 ## Sources
 The course materials were adapted from a number of sources. All materials were used for educational, non-commercial reasons only. Feel free to use as you wish for the same purpose, at your own risk. For other re-use questions please consult the license of the respective source:
@@ -54,6 +59,6 @@ The course materials were adapted from a number of sources. All materials were u
 * A network science class by Sean Cornelius and Emma Thompson
 
 ## Credits
-Data Science lectures: [Michael Szell](michael.szell.net)  
-Data Science exercises: Caroline Bjerre Benn Jørgensen, Jonas-Mika Senghaas  
-Python Crash Course: Anastassia Vybornova
+Python Crash Course: Anastassia Vybornova  
+Data Science & Program Design lectures: [Michael Szell](http://michael.szell.net)  
+Data Science & Program Design exercises: Caroline Bjerre Benn Jørgensen, Jonas-Mika Senghaas  
