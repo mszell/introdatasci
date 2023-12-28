@@ -1,6 +1,8 @@
 # Course materials for: Introduction to Data Science and Programming
 These course materials cover the course held in 2023, at IT University of Copenhagen, after several iterations of improvements. Public course page: [https://learnit.itu.dk/local/coursebase/view.php?ciid=1218](https://learnit.itu.dk/local/coursebase/view.php?ciid=1218)
 
+**Prerequisites**: Secondary school math. [Installed Python environment](files/installations.pdf). No programming skills required.   
+**Ideal level/program**: 1st year Bachelor in Data Science  
 
 ## Topics
 ![alt text](docs/images/topics.jpg "Topics")
