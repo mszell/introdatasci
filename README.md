@@ -15,7 +15,7 @@ The course is split into two parts:
 
 ### II. Data Science & Program Design (15 units)
 
-· 11. Array programming with numpy · 12. Single variable analysis · 13. Normal distributions · 14. Data relationships · 15. Simulation and top-down design · 16. Object-oriented programming · 17. Code optimization · 18. Induction and command line tools · 19.  Network science· 20. Skewed data · 21. Network analysis and visualization · 22. Graph algorithms · 23. Machine learning · 24. Information theory · 25. Data cleaning and pitfalls ·
+· 11. Array programming with numpy · 12. Single variable analysis · 13. Normal distributions · 14. Data relationships · 15. Simulation and top-down design · 16. Object-oriented programming · 17. Code optimization · 18. Induction and command line tools · 19. Network science · 20. Skewed data · 21. Network analysis and visualization · 22. Graph algorithms · 23. Machine learning · 24. Information theory · 25. Data cleaning and pitfalls ·
 
 ## Schedule
 ![alt text](docs/images/schedule.png "Schedule")
