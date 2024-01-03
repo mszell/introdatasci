@@ -38,7 +38,7 @@ Find the detailed official instructions [here](https://learn.microsoft.com/en-us
 </p>
 
 
-> **Note** If running `wsl --install` doesn't look like in the screenshot of Step 2 above, but instead shows you a help text (as in the screenshot below), it means that you already have some distribution of WSL installed. [Click here](https://github.com/anastassiavybornova/pythoncrashcourse/blob/main/WSL_alreadyinstalled.md) for instructions what to do next.
+> **Note** If running `wsl --install` doesn't look like in the screenshot of Step 2 above, but instead shows you a help text (as in the screenshot below), it means that you already have some distribution of WSL installed. [Click here](./WSL_alreadyinstalled.md) for instructions what to do next.
 
 ## Accessing the Unix shell
 

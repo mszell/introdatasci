@@ -48,4 +48,4 @@ to set the default distribution to Ubuntu.
 
 ## After Ubuntu distribution has been checked/installed
 
-...you can now continue with [accessing the Unixshell](https://github.com/anastassiavybornova/pythoncrashcourse/blob/main/WSL_howto.md#accessing-the-unix-shell).
+...you can now continue with [accessing the Unixshell](./WSL_howto.md).
