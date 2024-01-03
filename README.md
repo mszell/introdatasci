@@ -11,7 +11,7 @@ The course is split into two parts:
 
 ### I. Python Crash Course (9 units)
 
-· 2. Operators and data types · 3. Lists and sets · 4. Control flow and conditional statements · 5. Functions and  dictionaries · 6. Strings, text files, and IO · 7. Comprehensions, shell and scripting · 8. Recursion, file formats, and pandas · 9. Binary search and conda · 10. Web scraping ·
+· 2. Operators, variables, and data types · 3. Lists, functions, and conditionals · 4. Mutability and control flow · 5. Dictionaries · 6. Strings, text, and IO · 7. Comprehensions, shell and scripts · 8. Pandas · 9. Binary search and conda · 10. Web scraping ·
 
 ### II. Data Science & Program Design (15 units)
 
@@ -20,18 +20,18 @@ The course is split into two parts:
 ## Schedule
 ![alt text](docs/images/schedule.png "Schedule")
 
-## Folder structure and learning activities
-[admin/](/admin): Auxiliary files for the course manager used to create materials, manage the course, or to set up the course page. Not shared with students.
+## Folder structure
+[admin/](/admin): Auxiliary files for the course manager used to create materials, manage the course, or to set up the course page. Not distributed to students.
 
 [docs/](/docs): Files related to this github repo.
 
 [exam/](/exam): Materials for creating a written pen&paper exam using the [exam LaTeX package](https://ctan.org/pkg/exam). An example mock exam is provided.
 
-[files/](/files): General course files to be shared with students during the course.
+[files/](/files): General course files to be distributed to students during the course.
 
 [mandatory/](/mandatory): Materials for mandatory activities: coding test and home assignments. Not shared publicly.
 
-`unit[XX]_[name]/`, where `[XX]` is `01`,..,`25`:  The 25 shared units. All files are shared with students, including contents of `files` and `reading` subfolders in advance, except for `.key` files which are used by the instructor to create the `.pdf` slides. A few units do not have an exercise. An additional unit 26 is a personalized lecture drawing from the instructor's own research and is not provided here. Additional units 27 and 28 have no materials as they are reserved for taking and discussing a mock exam, respectively.
+`unit[XX]_[name]/`, where `[XX]` is `01`,..,`25`:  The 25 units. All files are distributed students, including contents of `files` and `reading` subfolders in advance, except for `.key` files which are used by the instructor to create the `.pdf` slides. A few units do not have an exercise. An additional unit 26 is a personalized lecture drawing from the instructor's own research and is not provided here. Additional units 27 and 28 have no materials as they are reserved for taking and discussing a mock exam, respectively.
 
 
 ## Sources

@@ -6,11 +6,11 @@
 3. Verify that you installed Anaconda successfully, by following the detailed instructions here: https://docs.anaconda.com/free/anaconda/install/verify-install/ 
 
 <p style="text-align:left;">
-    <img src="Anaconda_Logo.png" alt="Anaconda Application Logo" width=300px>
+    <img src="images/Anaconda_Logo.png" alt="Anaconda Application Logo" width=300px>
 </p>
 
 ## Step 2: Opening up the jupyter notebook application
-We will work with jupyter notebooks in this class. The jupyter notebook application is part of the Anaconda distrubution you installed in the previous step. There are 2 ways of opening up the jupyter notebook application. Make sure you try out both steps:
+We will work with jupyter notebooks in this class. The jupyter notebook application is part of the Anaconda distribution you installed in the previous step. There are 2 ways of opening up the jupyter notebook application. Make sure you try out both steps:
 1. Through Anaconda Navigator: open the Anaconda Navigator, search for jupyter notebook, and click `Launch`
 2. Through the command line interface (CLI): open your CLI, type `jupyter notebook` and press enter
 
@@ -21,13 +21,13 @@ We will work with jupyter notebooks in this class. The jupyter notebook applicat
 **Screenshot of a CLI**
 
 <p style="text-align:left;">
-    <img src="scs-shell.png" alt="Screenshot of a CLI" width=500px>
+    <img src="images/scs-shell.png" alt="Screenshot of a CLI" width=500px>
 </p>
 
 **Screenshot of the Jupyter Notebook app in a web browser**
 
 <p style="text-align:left;">
-    <img src="scs-nbapp.png" alt="Screenshot of the jupyter notebook app in a web browser" width=500px>
+    <img src="images/scs-nbapp.png" alt="Screenshot of the jupyter notebook app in a web browser" width=500px>
 </p>
 
 ## Step 3: Creating an empty jupyter notebook
@@ -39,7 +39,7 @@ After opening up the jupyter notebook application (step 2),
 **Screenshot of an empty jupyter notebook**
 
 <p style="text-align:left;">
-    <img src="scs-emptynb.png" alt="Screenshot of the jupyter notebook app in a web browser" width=500px>
+    <img src="images/scs-emptynb.png" alt="Screenshot of the jupyter notebook app in a web browser" width=500px>
 </p>
 
 ## Step 4: Opening and running a saved jupyter notebook
@@ -54,5 +54,5 @@ After opening up the jupyter notebook application (step 2),
 **Screenshot of the testIT jupyter notebook**
 
 <p style="text-align:left;">
-    <img src="scs-testitnb.png" alt="Screenshot of the testIT jupyter notebook in a web browser" width=500px>
+    <img src="images/scs-testitnb.png" alt="Screenshot of the testIT jupyter notebook in a web browser" width=500px>
 </p>
