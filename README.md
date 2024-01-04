@@ -48,7 +48,7 @@ The course materials were adapted from a number of sources. All materials were u
 * https://towardsdatascience.com/speed-up-jupyter-notebooks-20716cbe2025
 * https://jakevdp.github.io/PythonDataScienceHandbook/01.07-timing-and-profiling.html
 * https://people.duke.edu/~ccc14/sta-663/MakingCodeFast.html
-* Network Science by A.L. Barabasi
+* A first course in Network Science by F. Menczer, S. Fortunato, C.A. Davis
 * Networks: An Introduction by M.E.J. Newman
 * Bruno Gonçalves / Data4Sci: https://github.com/DataForScience/Networks
 * James Bagrow: http://bagrow.com/dsv/
