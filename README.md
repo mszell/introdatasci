@@ -35,7 +35,7 @@ The course is split into two parts:
 
 
 ## Sources
-The course materials were adapted from a number of sources. All materials were used for educational, non-commercial reasons only. Feel free to use as you wish for the same purpose, at your own risk. For other re-use questions please consult the license of the respective source:
+The course materials were adapted/inspired from a number of sources:
 
 * Scientific Python course by Roberta Sinatra
 * A lecture of J.R. Johansson (http://jrjohansson.github.io)
@@ -53,6 +53,9 @@ The course materials were adapted from a number of sources. All materials were u
 * Bruno Gonçalves / Data4Sci: https://github.com/DataForScience/Networks
 * James Bagrow: http://bagrow.com/dsv/
 * A network science class by Sean Cornelius and Emma Thompson
+
+## License
+All materials were used for educational, non-commercial reasons only. Feel free to use as you wish for the same purpose, at your own risk. For other re-use questions please consult the license of the respective source. Our main sources use a [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/) so we use it too.
 
 ## Credits
 Python Crash Course: Anastassia Vybornova  
