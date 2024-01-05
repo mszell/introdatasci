@@ -64,7 +64,7 @@ Now, we want to add one more package to our `websoup` environment. The way to do
 
 ## Step 4: Adding the environment to jupyter notebook
 
-* To make the the `websoup` environment availabe in your jupyter notebook application (so that you don't need to activate it manually from the CLI each time you want to use it), run:
+* To make the the `websoup` environment available in your jupyter notebook application (so that you don't need to activate it manually from the CLI each time you want to use it), run:
 
 ```
 python -m ipykernel install --user --name=websoup
