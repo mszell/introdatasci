@@ -31,7 +31,7 @@ The course is split into two parts:
 
 [mandatory/](/mandatory): Materials for mandatory activities: coding test and home assignments. Not shared publicly.
 
-`unit[XX]_[name]/`, where `[XX]` is `01`,..,`25`:  The 25 units. All files are distributed students, including contents of `files` and `reading` subfolders in advance, except for `.key` files which are used by the instructor to create the `.pdf` slides. A few units do not have an exercise. An additional unit 26 is a personalized lecture drawing from the instructor's own research and is not provided here. Additional units 27 and 28 have no materials as they are reserved for taking and discussing a mock exam, respectively.
+`unit[XX]_[name]/`, where `[XX]` is `01`,..,`25`:  The 25 units. All files are distributed to students, including contents of `files` and `reading` subfolders in advance, except for `.key` files which are used by the instructor to create the `.pdf` slides. A few units do not have an exercise. An additional unit 26 is a personalized lecture drawing from the instructor's own research and is not provided here. Additional units 27 and 28 have no materials as they are reserved for taking and discussing a mock exam, respectively.
 
 
 ## Sources
