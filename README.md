@@ -42,7 +42,6 @@ The course materials were adapted/inspired from a number of sources:
 * Python for Data Analysis by Wes McKinney
 * Introduction to the practice of statistics by D.S. Moore and G.R. McCabe
 * Python Programming by John Zelle
-* https://github.com/UofTCoders/studyGroup/tree/gh-pages/lessons/python/classes
 * https://www.thedigitalcatonline.com/blog/2015/03/14/python-3-oop-notebooks/
 * https://towardsdatascience.com/speed-up-jupyter-notebooks-20716cbe2025
 * https://jakevdp.github.io/PythonDataScienceHandbook/01.07-timing-and-profiling.html
