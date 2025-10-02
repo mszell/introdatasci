@@ -33,6 +33,20 @@ The course is split into two parts:
 
 `unit[XX]_[name]/`, where `[XX]` is `01`,..,`25`:  The 25 units. All files are distributed to students, including contents of `files` and `reading` subfolders in advance, except for `.key` files which are used by the instructor to create the `.pdf` slides. A few units do not have an exercise. An additional unit 26 is a personalized lecture drawing from the instructor's own research and is not provided here. Additional units 27 and 28 have no materials as they are reserved for taking and discussing a mock exam, respectively.
 
+## Setting up the teaching environment
+Use [`conda`](https://docs.conda.io/projects/conda/en/latest/index.html)
+or [`mamba`](https://mamba.readthedocs.io/en/latest/installation/mamba-installation.html)
+or [`micromamba`](https://mamba.readthedocs.io/en/latest/installation/micromamba-installation.html)
+to create the virtual environment `idsp`:
+
+```
+mamba create -n idsp numpy matplotlib pandas statsmodels scikit-image scikit-learn networkx scipy snakeviz ipywidgets ipykernel line_profiler
+mamba activate idsp
+pip install py-heat-magic
+ipython kernel install --user --name=idsp
+mamba deactivate
+```
+You can now run `jupyter lab -kernel idsp`.
 
 ## Sources
 The course materials were adapted/inspired from a number of sources:
