@@ -43,8 +43,8 @@ to create the virtual environment `idsp`:
 mamba create -n idsp numpy matplotlib pandas statsmodels scikit-image scikit-learn networkx scipy snakeviz ipywidgets ipykernel line_profiler
 mamba activate idsp
 pip install py-heat-magic
-ipython kernel install --user --name=idsp
 mamba deactivate
+ipython kernel install --user --name=idsp
 ```
 You can now run `jupyter lab -kernel idsp`.
 
