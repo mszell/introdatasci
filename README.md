@@ -46,7 +46,7 @@ pip install py-heat-magic
 mamba deactivate
 ipython kernel install --user --name=idsp
 ```
-You can now run `jupyter lab -kernel idsp`.
+You can now run Jupyter `jupyter lab` with the kernel `idsp` (Kernel > Change Kernel > idsp).
 
 ## Sources
 The course materials were adapted/inspired from a number of sources:
