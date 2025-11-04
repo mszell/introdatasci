@@ -40,7 +40,7 @@ or [`micromamba`](https://mamba.readthedocs.io/en/latest/installation/micromamba
 to create the virtual environment `idsp`:
 
 ```
-mamba create -n idsp numpy matplotlib pandas statsmodels scikit-image scikit-learn networkx scipy snakeviz ipywidgets ipykernel line_profiler
+mamba create -n idsp numpy matplotlib pandas statsmodels scikit-image scikit-learn networkx scipy snakeviz ipywidgets ipykernel line_profiler memory_profiler
 mamba activate idsp
 pip install py-heat-magic
 mamba deactivate
