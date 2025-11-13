@@ -43,6 +43,7 @@ to create the virtual environment `idsp`:
 mamba create -n idsp numpy matplotlib pandas statsmodels scikit-image scikit-learn networkx scipy snakeviz ipywidgets ipykernel line_profiler memory_profiler
 mamba activate idsp
 pip install py-heat-magic
+pip install netwulf
 mamba deactivate
 ipython kernel install --user --name=idsp
 ```
